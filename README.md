@@ -13,6 +13,7 @@ Calculator, it's a device used to do calculations on numbers with different oper
 ### 1. Build the website in HTML
 Basically, add the barebones for the calculator. So, I can start working. And add the buttons such that the website looks something like this.
 ![image](https://user-images.githubusercontent.com/50615534/191142686-fc88ae27-9788-4e05-b2cf-c7fab4f1596e.png)
+
 ***Note to self: In the initial commit, add the html tags and then in the next commit select appropriate names for class and id's*** 
 
 ## 2. Add the CSS to the website
